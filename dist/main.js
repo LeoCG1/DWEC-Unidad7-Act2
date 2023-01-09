@@ -1,0 +1,1 @@
+document.getElementById("anyadir").addEventListener("click",(function(){var e=document.getElementById("texto");localStorage.setItem("tarea"===e)}));
